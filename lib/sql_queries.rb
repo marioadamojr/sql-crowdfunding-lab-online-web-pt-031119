@@ -39,15 +39,6 @@ end
 
 
 
-
-
-
-
-
-
-
-
-
 #   "SELECT projects.title, SUM(pledges.amount) - projects.funding_goal
 #   FROM projects
 #   JOIN pledges
